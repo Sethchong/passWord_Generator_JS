@@ -1,0 +1,35 @@
+body {
+    background-color: ECFDF5;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: 273549;
+    font-family: karla;
+}
+
+p{
+    color: 6B7280;
+    font-family: inter;
+}
+
+button{
+    color: white;
+    background-color:10B981 ;
+    width: 200px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+p.content{
+    background-color:273549 ;
+    width: 200px;
+    height: 30px;
+    border-radius: 7px;
+    color: 5DEF92;
+    text-align: center;
+
+}
